@@ -1,5 +1,7 @@
 # vue-calendar
 
+<img src="Screenshot (711).png">
+
 ## Project setup
 ```
 npm install
