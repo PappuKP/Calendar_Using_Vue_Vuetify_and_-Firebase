@@ -12,7 +12,7 @@ firebase.initializeApp({
   apiKey: "",
     authDomain: "",
     databaseURL: "",
-    projectId: "vue-calender-d1195",
+    projectId: "",
     storageBucket: "",
     messagingSenderId: "",
     appId: ""
